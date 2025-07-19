@@ -5,6 +5,7 @@ This is a simple password manager built using python and Tkinter.
 - Save and retrieve passwords
 - Generate random passwords
 - GUI-based with a logo
-## How to Run This project uses only Python's built-in libraries (no installation needed).Just run:
+## How to Run This project uses only Python's built-in libraries (no installation neededbut still for clarity do some installtion if required from pop ups).
+Just run:
 ```bash
-pyhtoon main.py
+python main.py
